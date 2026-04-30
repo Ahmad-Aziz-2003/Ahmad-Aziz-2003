@@ -224,7 +224,7 @@ Shipping products that solve real problems with clean code, thoughtful UX, and m
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Aziz-2003&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=6e40c9&title_color=6e40c9" alt="Top Languages" width="40%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Aziz-2003&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=6e40c9&title_color=6e40c9" alt="Top Languages" width="40%"/> -->
 
 <br/>
 
