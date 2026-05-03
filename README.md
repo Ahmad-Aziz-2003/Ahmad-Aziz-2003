@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated gradient banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d2ff&height=200&section=header&text=Ahmad%20Aziz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Building%20the%20Future&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d2ff&height=200&section=header&text=Ahmad%20Aziz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI/ML%20Developer%20%7C%20Building%20the%20Future&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG animation -->
 <a href="https://git.io/typing-svg">
@@ -41,25 +41,47 @@
 
 ```typescript
 const ahmadAziz = {
-  role        : "Full Stack Developer",
+  role        : "Full Stack Engineer",
   location    : "Pakistan 🇵🇰",
 
-  focus       : [
-    "Scalable Web Apps",
-    "AI / LLM Integration",
-    "High-Performance Systems",
+  expertise   : [
+    "AI-Driven Web Applications",
+    "LLM Integration & Automation",
+    "Data Pipelines & Processing",
+    "Scalable Backend Architecture",
   ],
+
+  mindset     : "Building intelligent systems that automate real-world workflows",
 
   stack: {
     frontend  : ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend   : ["Node.js", "Express", "Django", "REST APIs"],
+
+    backend   : ["Node.js", "Express", "Django", "FastAPI", "REST APIs"],
+
+    python    : [
+      "Web Scraping (BeautifulSoup, Selenium)",
+      "Data Cleaning & Preprocessing",
+      "Automation Scripts",
+      "Pandas / NumPy"
+    ],
+
     database  : ["MongoDB", "MySQL", "Firebase"],
-    cloud     : ["AWS", "Vercel", "Heroku"],
-    ai        : ["LLM Fine-tuning", "AI Feature Integration"],
+
+    cloud     : ["AWS", "Vercel", "GCP"],
+
+    ai        : [
+      "LLM Integration (OpenAI / Claude)",
+      "AI Agents & Automation",
+      "Prompt Engineering",
+      "AI Feature Engineering"
+    ],
   },
 
-  currentlyBuilding : "Intelligent full-stack apps powered by AI 🤖",
-  funFact           : "I turn complex problems into elegant solutions ⚡",
+  currentlyBuilding : "AI-powered systems that extract, process & act on data 🤖",
+
+  specialty         : "Turning raw data into intelligent, automated workflows",
+
+  funFact           : "From scraping data to deploying AI — I handle the full pipeline ⚡",
 };
 ```
 
